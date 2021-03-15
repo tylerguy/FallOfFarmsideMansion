@@ -1,0 +1,5 @@
+Not using cached read wrapper
+Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+Stats thread started at 0.106559
+Loaded GFSDK_Aftermath_Lib.x64.dll
+Windows GetLastError: The operation completed successfully. (0)
